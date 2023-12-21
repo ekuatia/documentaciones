@@ -2,7 +2,7 @@
 
 * [Bienvenida](README.md)
 * [🗒 Documentaciones SET](documentaciones-set.md)
-* [🗒 Enlaces de Interés](documentaciones-set-1.md)
+* [🗒 Enlaces de Interés](enlaces.md)
 
 ## 📦 Repositorios
 
