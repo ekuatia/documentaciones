@@ -16,5 +16,7 @@
 
 * [Telegram](https://t.me/ekuatia\_sifen)
 * [Web eKuatia](https://www.set.gov.py/web/e-kuatia)
-* [Consultas DEs TEST](https://ekuatia.set.gov.py/consultas-test/)
-* [Consultas DEs PROD](https://ekuatia.set.gov.py/consultas/)
+* [\[SET\] Consultas DEs TEST](https://ekuatia.set.gov.py/consultas-test/)
+* [\[SET\] Consultas DEs PROD](https://ekuatia.set.gov.py/consultas/)
+* [\[SET\] Listado de RUCs](https://www.set.gov.py/web/portal-institucional/listado-de-ruc-con-sus-equivalencias)
+* [\[SET\] Prevalidador XMLs](https://ekuatia.set.gov.py/prevalidador/validacion)
