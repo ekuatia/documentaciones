@@ -5,7 +5,6 @@
 | [Manual versión 150](https://www.set.gov.py/documents/20123/420592/Manual+T%C3%A9cnico+Versi%C3%B3n+150.pdf/e706f7c7-6d93-21d4-b45b-5d22d07b2d22?t=1687351495907) |
 | [Estructura xml\_DE](https://www.set.gov.py/documents/371863/0/Estructura+xml\_DE.rar/ecbb793c-071f-e513-6a71-aab182a77715?t=1687266933733)                       |
 | [Estructura\_DE xsd](https://www.set.gov.py/documents/20123/420592/Estructura\_DE+xsd.rar/e956aaac-69b3-e132-6c2a-6fa039728be5?t=1687351493703)                   |
-| [Actividades Económicas](https://servicios.set.gov.py/eset-publico/consultarActividadEconomicaIService.do)                                                        |
 
 | Notas Técnicas                                                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- |

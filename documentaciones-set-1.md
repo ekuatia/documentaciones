@@ -11,3 +11,4 @@
 | [Consulta CDC (Testing)](https://ekuatia.set.gov.py/consultas-test/)                                                        |
 | [Prevalidación de XMLs](https://ekuatia.set.gov.py/prevalidador/validacion)                                                 |
 | [Base de datos de RUCs](https://www.set.gov.py/web/portal-institucional/listado-de-ruc-con-sus-equivalencias) (descargable) |
+| [Actividades Económicas](https://servicios.set.gov.py/eset-publico/consultarActividadEconomicaIService.do)                  |
