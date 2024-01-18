@@ -7,12 +7,10 @@
   * [Factura](ejemplos-documentos/factura.md)
   * [Nota Crédito/Débito](ejemplos-documentos/nota-credito-debito.md)
   * [Nota Remisión](ejemplos-documentos/nota-remision.md)
-* [📁 Eventos](eventos/README.md)
-  * [Nominación](eventos/nominacion.md)
-  * [Anulación](eventos/anulacion.md)
-  * [Inutilización](eventos/inutilizacion.md)
-
-## 📦 Repositorios
-
-* [Javascript](repositorios/javascript.md)
-* [Java](repositorios/java.md)
+* [📁 Ejemplos Eventos](ejemplos-eventos/README.md)
+  * [Nominación](ejemplos-eventos/nominacion.md)
+  * [Anulación](ejemplos-eventos/anulacion.md)
+  * [Inutilización](ejemplos-eventos/inutilizacion.md)
+* [📦 Repositorios](repositorios/README.md)
+  * [Javascript](repositorios/javascript.md)
+  * [Java](repositorios/java.md)
