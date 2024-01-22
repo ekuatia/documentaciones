@@ -162,7 +162,7 @@ Estructura de Nota Crédito; La Nota Débito cambian unos pocos parámetros a di
 
 
 
-Estructura Factura Papel
+### Estructura Factura Papel
 
 ```xml
 <gCamDEAsoc>
@@ -178,7 +178,7 @@ Estructura Factura Papel
 </gCamDEAsoc>
 ```
 
-Estructura Factura Electrónica
+### Estructura Factura Electrónica
 
 ```xml
 <gCamDEAsoc>
