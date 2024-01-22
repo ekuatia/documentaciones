@@ -129,10 +129,9 @@ Estructura de Nota Crédito; La Nota Débito cambian unos pocos parámetros a di
             <dBaseGrav10>4545</dBaseGrav10>
             <dTBasGraIVA>4545</dTBasGraIVA>
         </gTotSub>
+
         <gCamDEAsoc>
-            <iTipDocAso>1</iTipDocAso>
-            <dDesTipDocAso>Electrónico</dDesTipDocAso>
-            <dCdCDERef>12341234123412341234123412341234123412341254</dCdCDERef>
+            <!-- ver ejemplo mas abajo... -->
         </gCamDEAsoc>
     </DE>
     <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
@@ -159,4 +158,32 @@ Estructura de Nota Crédito; La Nota Débito cambian unos pocos parámetros a di
         <dCarQR>urlSifen</dCarQR>
     </gCamFuFD>
 </rDE>
+```
+
+
+
+Estructura Factura Papel
+
+```xml
+<gCamDEAsoc>
+    <iTipDocAso>2</iTipDocAso>
+    <dDesTipDocAso>Impreso</dDesTipDocAso>
+    <dNTimDI>{{nro_timbrado}}</dNTimDI>
+    <dEstDocAso>{{sucursal_establecimiento}}</dEstDocAso>
+    <dPExpDocAso>{{sucursal_caja}}</dPExpDocAso>
+    <dNumDocAso>{{sucursal_numerofactura}}</dNumDocAso>
+    <iTipoDocAso>1</iTipoDocAso>
+    <dDTipoDocAso>Factura</dDTipoDocAso>
+    <dFecEmiDI>{{fecha_emision_factura (YYYY-mm-dd)}}</dFecEmiDI>
+</gCamDEAsoc>
+```
+
+Estructura Factura Electrónica
+
+```xml
+<gCamDEAsoc>
+    <iTipDocAso>1</iTipDocAso>
+    <dDesTipDocAso>Electrónico</dDesTipDocAso>
+    <dCdCDERef>{{nro_cdc_factura}}</dCdCDERef>
+</gCamDEAsoc>
 ```
